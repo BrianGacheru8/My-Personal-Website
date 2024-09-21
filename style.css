@@ -1,13 +1,13 @@
 * {
     margin:0px;
     padding: 0px;
-
 }
+
 #navbar{
     display:flex;
     display:row;
 }
+
 h1{
-    box-sizing:border-sizing;
-    border:32px,solid;
+    box-sizing:border-sizing
 }
