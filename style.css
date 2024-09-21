@@ -2,6 +2,9 @@
     margin:0px;
     padding: 0px;
 }
+body{
+    background-color:black;
+}
 
 #navbar{
     display: flex;
