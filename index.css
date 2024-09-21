@@ -3,16 +3,16 @@
     padding: 0px;
 }
 body{
-    background-color:white;
+    background-color:grey;
 }
 
 #navbar{
     display: flex;
-    display:in-line;
+    display: row;
 }
 
 h1{
-    box-sizing:border-sizing;
+    box-sizing:border;
 }
 .dog{
     height:10%;
@@ -20,8 +20,7 @@ h1{
     position:absolute;
     bottom:0;
     left:0;
-    border:35px
-    border-color:black;
+    border:35px;
 }
 .cat{
     height:10%;
@@ -29,6 +28,5 @@ h1{
     position:absolute;
     bottom:0;
     right:0;
-    border:32px
-    border-color:orange;
+    border:32px;
 }
