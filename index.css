@@ -15,16 +15,20 @@ h1{
     box-sizing:border-sizing;
 }
 .dog{
+    height:auto;
     width:50%;
     position:absolute;
     bottom:0;
     left:0;
+    border:35px
     border-color:black;
 }
 .cat{
+    height:auto;
     width:50%;
     position:absolute;
     bottom:0;
     right:0;
+    border:32px
     border-color:orange;
 }
