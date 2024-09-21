@@ -4,8 +4,8 @@
 }
 
 #navbar{
-    display:flex;
-    display-direction:row;
+    display: flex;
+    display:in-line;
 }
 
 h1{
@@ -24,7 +24,4 @@ h1{
     bottom:0;
     right:0;
     background-color:white;
-}
-#just{
-   display:right;
 }
