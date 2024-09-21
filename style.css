@@ -5,7 +5,7 @@
 
 #navbar{
     display:flex;
-    display:row;
+    display-direction:row;
 }
 
 h1{
