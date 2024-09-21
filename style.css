@@ -6,19 +6,20 @@
 #navbar{
     display:flex;
     display-direction:row;
-    dis
 }
 
 h1{
     box-sizing:border-sizing
 }
-.dog section{
+.dog{
+    width:50%;
     position:absolute;
     bottom:0;
     left:0;
     background-color:black
 }
-.cat section{
+.cat{
+    width:50%;
     position:absolute;
     bottom:0;
     right:0;
