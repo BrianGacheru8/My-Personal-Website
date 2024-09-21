@@ -6,8 +6,21 @@
 #navbar{
     display:flex;
     display-direction:row;
+    dis
 }
 
 h1{
     box-sizing:border-sizing
+}
+.dog section{
+    position:absolute;
+    bottom:0;
+    left:0;
+    color:black
+}
+.cat section{
+    position:absolute;
+    bottom:0;
+    right:0;
+    color:white;
 }
