@@ -1,5 +1,4 @@
 * {
-    background:blue;
     margin:0px;
     padding: 0px;
 
@@ -9,5 +8,6 @@
     display:row;
 }
 h1{
+    box-sizing:border-sizing;
     border:32px,solid;
 }
