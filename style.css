@@ -1,0 +1,10 @@
+body{
+    background:blue;
+}
+#navbar{
+    display:flex;
+    display:row;
+}
+h1{
+    border:32px,solid;
+}
