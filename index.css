@@ -23,8 +23,6 @@ body{
     color:white;
 }
 li{
-    margin:50px, auto;
-    font-size:10px;
     display:flex;
     display: inline;
 }
@@ -42,7 +40,6 @@ h1{
     box-sizing:border-box;
 }
 div.dog{
-    margin:auto,auto;
     width:50%;
     background-color:grey;
     position:absolute;
@@ -50,7 +47,6 @@ div.dog{
     left:0;
 }
 div.cat{
-    margin:auto,auto;
     width:50%;
     background-color:black;
     position:absolute;
