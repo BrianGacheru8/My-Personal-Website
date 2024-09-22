@@ -3,7 +3,7 @@
     padding: 0px;
 }
 body{
-    background-color: white;
+    background-color: gold;
 }
 
 #navbar{
@@ -17,7 +17,7 @@ h1{
 div.dog{
     height:10%;
     width:50%;
-    background-color:white;
+    background-color:grey;
     position:absolute;
     bottom:0;
     left:0;
