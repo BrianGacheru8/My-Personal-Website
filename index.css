@@ -3,14 +3,12 @@
     padding: 0px;
     color:black;
     background-color: white;
+    background-image: url("./assets/simple.webp");
+    background-size:cover;
 }
 #navbar{
     text-align:center;
     font-size:10px;
-}
-bg{
-    background-image: url("assets\ simple.webp");
-    background-size:cover;
 }
 #main-header h1{
     text-align: center;
