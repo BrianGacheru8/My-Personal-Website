@@ -6,7 +6,7 @@ body{
 header{
     background-color: black;
 }
-.navbar{
+.navitem{
     justify-content:space-around;
 }
 .heady{
