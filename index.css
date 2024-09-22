@@ -1,13 +1,16 @@
 * {
     margin:0px;
     padding: 0px;
-    text-align: center;
     color:black;
     background-color: white;
+}
+#main-header{
+    text-align: center;
 }
 
 li{
     margin:100px,auto;
+    display:flex;
     display: inline;
 }
 
