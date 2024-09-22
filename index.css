@@ -3,9 +3,9 @@
     padding: 0px;
     color:black;
     background-color: white;
-    background-image: url("./assets/simple.webp");
+    background-image: url();
     background-size:contain;
-    background-repetition: no-repetition;
+    background-repeat: no-repeat;
 }
 #navbar{
     text-align:center;
