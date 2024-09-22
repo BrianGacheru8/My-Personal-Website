@@ -1,11 +1,9 @@
-* {
+body{
     margin:0px;
     padding: 0px;
     color:black;
-    background-color: white;
-}
-body{    
-    background-image :url("./assets/img2.jpg");
+    background-color: white;    
+    background-image: url("./assets/img2.jpg");
     background-size: contain;
 }
 #navbar{
@@ -35,7 +33,7 @@ h1{
     box-sizing:border-box;
 }
 div.dog{
-    margin:1000px,auto;
+    margin:auto,auto;
     width:50%;
     background-color:grey;
     position:absolute;
@@ -43,7 +41,7 @@ div.dog{
     left:0;
 }
 div.cat{
-    margin:1000px,auto;
+    margin:auto,auto;
     width:50%;
     background-color:black;
     position:absolute;
