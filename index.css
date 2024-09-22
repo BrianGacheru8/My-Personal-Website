@@ -17,18 +17,15 @@ body{
 #navbar{
     margin:50px, auto;
     font-size:10px;
+    margin:100px,auto;
+    display:flex;
+    display: inline;
 }
 #main-header h1{
     text-align: center;
 }
 p {
 font-style:Times;
-}
-
-nav li{
-    margin:100px,auto;
-    display:flex;
-    display: inline;
 }
 
 p img{
