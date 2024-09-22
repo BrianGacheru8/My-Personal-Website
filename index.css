@@ -3,18 +3,18 @@
     padding: 0px;
 }
 body{
-    background-color:grey;
+    background-color:white;
 }
 
 #navbar{
     display: flex;
-    display: row;
+    display-direction: row;
 }
 
 h1{
     box-sizing:border;
 }
-.dog{
+div.dog{
     height:10%;
     width:50%;
     color:red
@@ -23,10 +23,10 @@ h1{
     left:0;
     border:35px;
 }
-.cat{
+div.cat{
     height:10%;
     width:50%;
-    color:black
+    color:black;
     position:absolute;
     bottom:0;
     right:0;
