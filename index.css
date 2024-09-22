@@ -4,12 +4,12 @@
 }
 body{
     color:black;
-    background-color: gold;
+    background-color: blue;
 }
 
 #navbar{
     display: flex;
-    display: row;
+    display: table-row;
 }
 
 h1{
