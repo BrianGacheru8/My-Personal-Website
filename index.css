@@ -3,6 +3,8 @@
     padding: 0px;
     color:black;
     background-color: white;
+    background-image:url("./assets/img2.jpg")
+    background-size: contain;
 }
 #navbar{
     margin:50px, auto;
