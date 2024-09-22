@@ -16,7 +16,7 @@ body{
 }
 
 h1{
-    box-sizing:border;
+    box-sizing:border-box;
 }
 div.dog{
     height:10%;
