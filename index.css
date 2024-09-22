@@ -4,6 +4,15 @@
     color:black;
     background-color: white;
 }
+#navbar{
+    text-align:center;
+    font-color: blue;
+    font-size:10px;
+}
+bg{
+    background-image:"./assets/simple.webp"
+    background-size:cover;
+}
 #main-header h1{
     text-align: center;
 }
