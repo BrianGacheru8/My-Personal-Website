@@ -5,6 +5,7 @@
     background-color: white;
     background-image: url("./assets/simple.webp");
     background-size:contain;
+    background-repetition: no-repetition;
 }
 #navbar{
     text-align:center;
