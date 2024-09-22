@@ -5,12 +5,18 @@ body{
     background-color: white;    
 }
 .heady{
+    position:absolute;
+    top:0;
+    left:0;
     height:50%;
     width:100%;
     background-color:white;
     color:black;
 }
 .taily{
+    position:absolute;
+    bottom: 10;
+    right:0;
     height:50%;
     width:100%;
     background-color:black;
@@ -19,15 +25,11 @@ body{
 li{
     margin:50px, auto;
     font-size:10px;
-    margin:100px,auto;
     display:flex;
     display: inline;
 }
 #main-header h1{
     text-align: center;
-}
-p {
-font-style:Times;
 }
 
 p img{
