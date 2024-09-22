@@ -2,11 +2,9 @@
     margin:0px;
     padding: 0px;
     text-align: center;
-}
-body{
     color:black;
     background-color: white;
-    background-image:"./assets/simple.webpZone.Identifier";
+    background-image:url("./assets/simple.webp");
 }
 
 #navbar{
