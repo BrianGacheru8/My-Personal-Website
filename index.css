@@ -28,7 +28,7 @@ h1{
     box-sizing:border-box;
 }
 div.dog{
-    height:10%;
+    height:auto;
     width:50%;
     background-color:grey;
     position:absolute;
@@ -36,7 +36,7 @@ div.dog{
     left:0;
 }
 div.cat{
-    height:10%;
+    height:auto;
     width:50%;
     background-color:black;
     position:absolute;
