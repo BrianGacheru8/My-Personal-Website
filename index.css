@@ -8,7 +8,7 @@ body{
 
 #navbar{
     display: flex;
-    display-direction: row;
+    display: row;
 }
 
 h1{
