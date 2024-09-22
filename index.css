@@ -1,14 +1,32 @@
 body{
-    margin:0px;
     padding: 0px;
-    background-color:grey; 
+    background-color: wheat;
+    font-family: Arial, Helvetica, sans-serif;    
 }
-header{
-    background-color: black;
+header h1{
+    background-color: grey;
+    font-size: xx-large;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+img{
+    display: flex;
+    flex-wrap: wrap;
+    right: auto;
+}
+.navbar{
+    background-color: wheat;
+    border: 3px,solid;
+}
+.navcol{
+     flex-direction: column;
+     
 }
 .navitem{
+    font-size: 20px;
+    margin-right: 170px;
+    display:inline;
     justify-content: space-between;
-    text-align:center;
 }
 .heady{
     height:50%;
@@ -20,7 +38,7 @@ header{
     width:100%;
     background-color:grey;
 }
-li{
+p+li{
     display:flex;
     display: inline;
 }
@@ -28,28 +46,20 @@ li{
     text-align: center;
 }
 
-p img{
-    box-sizing: border-box;
-    height:50px;
-    width:50px;
-    border-radius:50%;
-}
 h1{
     box-sizing:border-box;
 }
-div.dog{
-    margin: auto,50%;
+span.dog{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
     width:50%;
     background-color:grey;
-    position:absolute;
-    bottom:0;
-    left:0;
 }
-div.cat{
-    margin: auto, 50%;
+span.cat{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
     width:50%;
     background-color:black;
-    position:absolute;
-    bottom:0;
-    right:0;
+    position: absolute;
+    right: 0px;
 }
