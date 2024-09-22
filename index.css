@@ -9,14 +9,12 @@ body{
     height:50%;
     width:100%;
     background-color:white;
-    font:black;
 }
 .taily{
     position:absolute;
     height:50%;
     width:100%;
-    background-color:black;
-    font:white;
+    background-color:grey;
 }
 li{
     display:flex;
