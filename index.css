@@ -3,20 +3,18 @@ body{
     padding: 0px;
     color:black;
     background-color: white;    
-    /*background-image: url("./assets/img2.jpg");
-    background-size: contain;*/
 }
 .heady{
-    height:50%
+    height:50%;
     background-color:white;
     color:black;
 }
 .taily{
-    height:50%
+    height:50%;
     background-color:black;
     color:white;
 }
-#navbar{
+li{
     margin:50px, auto;
     font-size:10px;
     margin:100px,auto;
