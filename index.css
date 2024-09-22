@@ -1,8 +1,6 @@
 body{
     margin:0px;
-    padding: 0px;
-    color:black;
-    background-color: white;    
+    padding: 0px;    
 }
 .heady{
     position:absolute;
@@ -15,8 +13,6 @@ body{
 }
 .taily{
     position:absolute;
-    bottom: 10;
-    right:0;
     height:50%;
     width:100%;
     background-color:black;
