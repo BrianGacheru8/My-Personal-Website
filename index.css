@@ -6,12 +6,14 @@
     background-color: white;
 }
 
-#navbar{
+.navbar{
     display: flex;
     text-align:center;
+    display: table-row;
 }
 
 p img{
+    box-sizing: border-box;
     height:100px;
     width:1000px;
     border-radius:50%;
