@@ -3,15 +3,11 @@ body{
     padding: 0px;    
 }
 .heady{
-    position:absolute;
-    top:0;
-    left:0;
     height:50%;
     width:100%;
     background-color:white;
 }
 .taily{
-    position:absolute;
     height:50%;
     width:100%;
     background-color:grey;
