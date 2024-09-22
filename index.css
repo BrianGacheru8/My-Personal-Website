@@ -9,7 +9,7 @@
     font-size:10px;
 }
 bg{
-    background-image: url("./assets/simple.webp")
+    background-image: url("assets\ simple.webp");
     background-size:cover;
 }
 #main-header h1{
