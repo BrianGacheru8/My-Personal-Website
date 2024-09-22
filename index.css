@@ -1,6 +1,13 @@
 body{
     margin:0px;
-    padding: 0px;    
+    padding: 0px;
+    background-color: violet;    
+}
+header{
+    background-color: black;
+}
+.navbar{
+    justify-content:space-around;
 }
 .heady{
     height:50%;
